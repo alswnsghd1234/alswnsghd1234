@@ -13,5 +13,3 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alswnsghd1234)](https://github.com/anuraghazra/github-readme-stats)
 
 <ul>https://github.com/alswnsghd1234 </ul>
-<ul>https://alswnsghd1234.pythonanywhere.com </ul>
-<ul>https://alswnsghd1234.tistory.com</ul>
